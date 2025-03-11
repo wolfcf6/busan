@@ -1,0 +1,95 @@
+/*Nome do subtitulo*/
+#intro1 {
+  color: #e1624f;
+}
+h3 {
+  font-size: 28px;
+  font-style: bold;
+}
+h2 {
+  font-size: 32px;
+  font-style: bold;
+}
+#title1 h1 {
+  font-style: bold;
+  font-size: 36px;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 700;
+}
+#yong img {
+  width: 1120px;
+  height: 350px;
+  object-fit: cover;
+}
+
+body {
+  border: soli blue;
+  padding: 84px 80px 137px 80px;
+  width: 1120px;
+  height: 3054px;
+  margin: auto;
+  font-family: "Open Sans", sans-serif;
+  background-color: #f5f4f0;
+  border-color: #d9d9d9;
+}
+#conteiner {
+  border: soli;
+  padding: 10px 0px 0px 0px;
+  width: 1120px;
+  height: 900px;
+}
+#divisor {
+  padding-bottom: 40px;
+}
+.casais {
+  color: #e1624f;
+}
+.family {
+  color: #e5245e;
+}
+.orca {
+  color: #e95e10;
+}
+img {
+  width: 1120px;
+  height: 660px;
+}
+p {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+}
+.done {
+  text-align: center;
+}
+
+#line img {
+  max-width: 1120px;
+  height: 2px;
+}
+#description {
+  padding-bottom: 40px;
+  text-align: center;
+  font-style: italic;
+}
+#temple img {
+  width: 1120px;
+  height: 350px;
+  object-fit: cover;
+}
+
+#temple2 img {
+  width: 1120px;
+  height: 350px;
+}
+ul li::marker {
+  color: #0c51a7;
+}
+li {
+  color: #0c51a7;
+}
+footer {
+  text-align: center;
+  padding-top: 507px;
+  font-size: 20px;
+}
